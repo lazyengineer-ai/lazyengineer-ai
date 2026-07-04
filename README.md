@@ -8,8 +8,6 @@
 
 <!-- Replace: [https://www.linkedin.com/in/jenishkumarpatel/] -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenishkumarpatel/)
-<!-- Replace: [jenishkumar_patel@ryder.com] -->
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenishkumar_patel@ryder.com)
 <!-- Replace: [Chicago, IL] -->
 [![Location](https://img.shields.io/badge/Location-Chicago%2C%20IL-2D333B?style=for-the-badge&logo=googlemaps&logoColor=white)](#connect-with-me)
 

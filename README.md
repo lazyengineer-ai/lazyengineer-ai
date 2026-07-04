@@ -174,7 +174,6 @@ As a **Senior Data Engineer** at **Ryder Systems Inc.**, I design and operate th
 | | |
 |---|---|
 | **Location** | [Chicago, IL] |
-| **Email** | [jenishkumar_patel@ryder.com] |
 | **LinkedIn** | [https://www.linkedin.com/in/jenishkumarpatel/] |
 | **Blog** | [YOUR_BLOG_URL] |
 
